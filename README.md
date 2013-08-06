@@ -1,32 +1,20 @@
 # Bo Williams
 
-> contact
-> bowilliams@gmail.com
-> https://github.com/bowilliams
-> (781) 308-2710
+### contact
+* bowilliams@gmail.com
+* https://github.com/bowilliams
+* (781) 308-2710
 
 ### skills
 
 ### languages
-1. C#
-1. JavaScript
-1. Python
+C#, JavaScript, Python
 
 ### platforms and standards
-1. .Net and .Net MVC
-1. CSS/HTML/XML
-1. jQuery
-1. json
+.Net and .Net MVC, CSS/HTML/XML, jQuery, json
 
 ### tools, databases, and servers
-1. PostgreSQL
-1. MySQL
-1. Visual Studio.Net
-1. IIS
-1. nginx
-1. Apache
-1. RabbitMQ
-1. Redis
+PostgreSQL, MySQL, Visual Studio.Net, IIS, nginx, Apache, RabbitMQ, Redis
 
 ### Experience
 
@@ -39,7 +27,7 @@ I was the second engineering hire on a new team at Progressive Solutions. As the
 * Introduced a bug-tracking system, first based on Trello and then moving to Jira. This greatly cut down on the number of issues which were dropped on the floor or not responded to in a timely manner.  
 * Introduced agile practices (breaking down projects into stories and sprints, using points for estimation, sprint planning / sprint review meetings) to launch two major projects. Team members appreciated the organization of work and having a clear sense of what "done" meant in each sprint, and management appreciated that they could see continuous progress on the project.
 * Introduced a wiki which was widely adopted by both the engineering and premedia departments to answer common questions. Evangelized best practices of always writing an article if you looked for something on the wiki and didn't find it or had a new project to launch.
-* Developed a task management system in Python based on celery[http://www.celeryproject.org/]/RabbitMQ/Redis to accept orders of personalized documents, marshal final output asynchronously (depending on load, could take up to eight hours), and deliver the order to internal or third part fulfillment systems in multiple formats. This system processed hundreds of orders per day during the holiday season without a single failure.
+* Developed a task management system in Python based on [celery](http://www.celeryproject.org/)/RabbitMQ/Redis to accept orders of personalized documents, marshal final output asynchronously (depending on load, could take up to eight hours), and deliver the order to internal or third part fulfillment systems in multiple formats. This system processed hundreds of orders per day during the holiday season without a single failure.
 * Co-designed (with CTO) a RESTful API implemented in .Net MVC for creating and ordering personalized documents. This product allowed our customers to embed personalization in their own e-commerce system without needing to do any back end programming, as documents could be created and the editor could be opened entirely from JavaScript. With a minimum of server-side programming, they could then send us orders as JSON. This was huge for our first partner who was locked in to a third-party e-commerce provider and didn't have very many engineering resources. 
 * Currently leading a small team in the design and implementation of a book production workflow. This system accepts client orders as zip files hosted on S3, downloads and imports the orders into our production system, and gives operators a simple web UI (created in .Net MVC) for binding signatures into books, assembling books with covers, and doing QA to assure that all signatures were present and in the right order by quizzing operators to pick the right image from a selection of possible pages in a signature. This is built in .Net MVC with some command line tools to assist, all in C# and JavaScript. 
 * Hired a junior engineer to assist with support and project work, as well as developing internal reporting tools. Although this person turned out to not be a good fit for us, I was praised for managing a troublesome employee and challenging the employee to adapt to our culture rather than tolerating or prolonging an unworkable situation.
@@ -60,17 +48,16 @@ Brainshark is a market leader in online presentation and training- they take upl
 
 **Bitstream** __August 2006 - April 2010__
 
-*At Bitstream I worked on the Pageflex line of variable data products, specializing in our Storefront application. Customers deployed this software internally, hosting online sites for creating, customizing, ordering, and distributing all types of personalized documents.*
+At Bitstream I worked on the Pageflex line of variable data products, specializing in our Storefront application. Customers deployed this software internally, hosting online sites for creating, customizing, ordering, and distributing all types of personalized documents.
 
 *Sr. Software Engineer* __May 2009 - April 2010__
 
 Promoted into product R&D in recognition of the success of my product development efforts in Pageflex Services, and asked to adapt much of that functionality to our main product. In this more research-oriented position, demonstrated ability as self-starter who did not need a lot of management guidance to independently identify new features and prototype application enhancements.
 
 *Representative accomplishments*
+
 * Converted shopping cart to use JavaScript and AJAX instead of ASP.Net post-backs to update and remove cart items.
-
 * Implemented four of our most popular custom extensions as base functionality, generalizing client-specific uses into more widely applicable features, and doing more rigorous testing and performance analysis with NUnit and ANTS profiler. This was all accomplished in the first product release cycle after I joined the team.
-
 * Integrated quickly and smoothly into a new team and development process.
 
 *Services Lead Engineer* __August 2006 - May 2009___
@@ -80,6 +67,7 @@ Hired as lead engineer in an existing team, to serve as a mentor to peers and a 
 Developed 50+ out-of-release-cycle, customer-driven product enhancements and integrations as part of a first-party professional services team within Bitstream. These were released as downloadable extensions to the base product.
 
 *Representative accomplishments*
+
 * Lauded in annual reviews and by peers for juggling many competing priorities and deadlines (custom development, partner support, integration efforts, and customer support) while requiring a minimum of management overhead. 
 * Developed integrations to a number of partners and other third-party systems, focusing on workflow and MIS systems.  Designed a reusable, template-based framework for rapid development of XML/JDF based integrations, which was later productized and sold as a stand-alone product. Similarly, developed a reusable “punch-out” solution that could be sold to clients who managed their own product catalog and e-commerce workflow but needed access to document customization within our product. Both of these products served as the base of multiple integrations, many of which were developed and tested in days rather than weeks thanks to the reusable frameworks.
 * Supervised our free extension program, distributing commonly used enhancements to our customers via a download portal. Responsibilities included working with the team management to choose which extensions to release, managing extension upgrades to coincide with product releases and associated QA efforts, and communicating extension releases to customers via our support portal.
