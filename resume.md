@@ -60,7 +60,7 @@ Promoted into product R&D in recognition of the success of my product developmen
 * Implemented four of our most popular custom extensions as base functionality, generalizing client-specific uses into more widely applicable features, and doing more rigorous testing and performance analysis with NUnit and ANTS profiler. This was all accomplished in the first product release cycle after I joined the team.
 * Integrated quickly and smoothly into a new team and development process.
 
-*Services Lead Engineer* __August 2006 - May 2009___
+*Services Lead Engineer* __August 2006 - May 2009__
 
 Hired as lead engineer in an existing team, to serve as a mentor to peers and a leader in discovering and evangelizing new development practices. Led training and educational presentations for our customers and prospects and at our user conferences.
 
@@ -102,6 +102,7 @@ Developed and maintained custom e-commerce, marketing, and variable printing web
 * Responsible for on-call 24/7 supervision of all deployed client applications and server hardware. On-call duty was rotated on a weekly basis. Integrated monitoring systems with new and existing applications.
 
 **Personal Projects**
+
 Developed an iOS application to display random Buddhist meditation slogans. Currently working on a "dashboard" web app for a Raspberry Pi to display fitness information from Fitbit, weather, Twitter, and recent emails in my bathroom (very much akin to Panic's Status Board iPad app).
 
 **Education**
