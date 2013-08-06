@@ -74,7 +74,7 @@ Developed 50+ out-of-release-cycle, customer-driven product enhancements and int
 * Introduced unit testing (using NUnit) while developing a complex XML-based pricing system in C#. Since the customer would modify the pricing files after release, a test suite including unit testing helped us confirm whether bugs were due to bad input or program errors. This saved us many hours and dollars of engineering time diagnosing customer problems. Led team presentations and education effort to encourage a wider adoption of unit testing practices in our development effort.
 * Developed a jQuery-based method for our customers to change page layout in our base product in a supported fashion. This solved a problem for many of our customers who previously had been forced to directly modify our product’s ASPX files, resulting in installations that could not be easily upgraded to later versions of our product.
 
-** Banta ** __July 2000 - August 2006__
+**Banta** __July 2000 - August 2006__
 
 *Banta, acquired in 2006 by RR Donnelley, was a large printing services provider.  The Cambridge office specialized in developing marketing portals and web-to-print software as added value for Banta’s existing printing customers.*
 
