@@ -12,7 +12,7 @@ Technical leader with experience bootstrapping new product areas and teams, mana
 
 **Spotify**
 *Director of Engineering* __August 2018 - Present__
-=*Senior Engineering Manager* __September 2013 - August 2018__
+*Senior Engineering Manager* __September 2013 - August 2018__
 
 Leading engineering teams across Spotify since the acquisition of The Echo Nest in 2014. Notable accomplishments include:
 * Voice- initial lead team created a mission/vision for the future of voice at Spotify. I built an implementation plan and team for this vision. Started with 2 engineers + 1 research. I staffed a combined team of 30+ through a mix of internal and external recruiting and hiring. I created a leadership group, focusing on mitigation of initial risks, and facilitated the creation of roadmaps in major functional areas (in-house NLU, partner integrations, design & UX research, and ads). Launched Spotify's voice feature in iOS and Android, and made major improvements to how we fulfill requests on partner platforms. Currently working as the tech product area lead (a manager-of-managers role) for voice in our User Engagement mission, focusing on improving our cross- platform Voice user experiences.
