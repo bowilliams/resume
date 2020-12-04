@@ -10,6 +10,12 @@ Technical leader with experience bootstrapping new product areas and teams, mana
 
 ### Experience
 
+**Gamalon**
+
+*Vice President of Engineering* __November 2019 - Present__
+
+Led a team of engineers to ship the first version of Gamalon's IdeaFlow product for AI-driven marketing and sales conversation
+
 **Spotify**
 
 *Director of Engineering* __August 2018 - Present__
