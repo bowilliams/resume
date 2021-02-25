@@ -20,11 +20,12 @@ Technical leader with experience bootstrapping new product areas and teams, mana
 
 **Spotify**
 
-*Director of Engineering* __August 2018 - Present__
+*Director of Engineering* __August 2018 - November 2019__
 
 *Senior Engineering Manager* __September 2013 - August 2018__
 
 Leading engineering teams across Spotify since the acquisition of The Echo Nest in 2014. Notable accomplishments include:
+
 * Voice- initial lead team created a mission/vision for the future of voice at Spotify. I built an implementation plan and team for this vision. Started with 2 engineers + 1 research. I staffed a combined team of 30+ through a mix of internal and external recruiting and hiring. I created a leadership group, focusing on mitigation of initial risks, and facilitated the creation of roadmaps in major functional areas (in-house NLU, partner integrations, design & UX research, and ads). As the tech product area lead (a manager-of-managers role) for voice in our User Engagement mission, my team launched Spotify's voice feature in iOS and Android, and made major improvements to how we fulfill requests on partner platforms.
 * The Echo Nest integration- I managed a team of engineers through a difficult and complicated acquisition, finding a home for our work and products with a very high retention rate. 100% of my original team was retained at Spotify three years after the acquisition, and 50% were still with Spotify after five years.
 * Shipping software- in addition to my work with the voice program, my previous team shipped 
@@ -41,7 +42,12 @@ When we decided we needed to grow a machine learning team and capability in our 
 
 *Director of Engineering* __May 2011 - September 2013__
 
-I was the second engineering hire on a new team at Progressive Solutions. As the company expanded with more e-commerce and software oriented business, I was brought in to build a foundation of solid engineering practices. Led the development and improvement of our process. Co-designed (with CTO) a RESTful API implemented in .Net MVC for creating and ordering personalized documents. Developed a task management system in Python based on celery/RabbitMQ/Redis to accept orders of personalized documents, marshal final output asynchronously (depending on load, could take up to eight hours), and deliver the order to internal or third party fulfillment systems in multiple formats. Led the project to move our children's product e-commerce site (www.frecklebox.com) off of an unstable and hard to scale integration with a third-party document personalization product and on to our own RESTful API. Similarly, led the project to move our B2B stationery ordering site (www.stationeryhq.com) off of the same package and on to nopCommerce (C#/MVC e-commerce platform) and our own API for document personalization
+I was the second engineering hire on a new team at Progressive Solutions. As the company expanded with more e-commerce and software oriented business, I was brought in to build a foundation of solid engineering practices. Led the development and improvement of our process. 
+
+* Co-designed (with CTO) a RESTful API implemented in .Net MVC for creating and ordering personalized documents.
+* Developed a task management system in Python based on celery/RabbitMQ/Redis to accept orders of personalized documents, marshal final output asynchronously (depending on load, could take up to eight hours), and deliver the order to internal or third party fulfillment systems in multiple formats. 
+* Led the project to move our children's product e-commerce site (www.frecklebox.com) off of an unstable and hard to scale integration with a third-party document personalization product and on to our own RESTful API. 
+* Similarly, led the project to move our B2B stationery ordering site (www.stationeryhq.com) off of the same package and on to nopCommerce (C#/MVC e-commerce platform) and our own API for document personalization
 
 **Brainshark**
 
@@ -53,7 +59,12 @@ Brainshark is a market leader in online presentation and training- they take upl
 
 *Pageflex Services Lead Engineer / R&D Engineer* __August 2006 - April 2010__
 
-Project Lead Engineer in the Technical Solutions & Services department of Pageflex. Responsible for full cycle (initiating contact with customers, requirements gathering, project estimation and pricing, implementation, testing, and support) development of customizations to Pageflex Storefront, a web-to-print gateway for variable document customization and personalization. These included both back-end integrations with the product API as well as front end creation of new workflows. Developed integrations to a number of enterprise-level software packages (automation & MIS) for clients. Educated team on emerging technologies and led efforts to improve process and tools. In July 2009 I moved to the R&D team, where I became responsible for improving current products as well as developing new offerings.
+Project Lead Engineer in the Technical Solutions & Services department of Pageflex. 
+
+* Responsible for full cycle (initiating contact with customers, requirements gathering, project estimation and pricing, implementation, testing, and support) development of customizations to Pageflex Storefront, a web-to-print gateway for variable document customization and personalization. These included both back-end integrations with the product API as well as front end creation of new workflows. 
+* Developed integrations to a number of enterprise-level software packages (automation & MIS) for clients. Educated team on emerging technologies and led efforts to improve process and tools. 
+
+In July 2009 I moved to the R&D team, where I became responsible for improving current products as well as developing new offerings.
 
 **Banta**
 
