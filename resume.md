@@ -14,9 +14,9 @@ Technical leader with experience bootstrapping new product areas and teams, mana
 
 *Vice President of Engineering* __November 2019 - February 2020__
 
-Shipped the first version of Gamalon's Chat product for AI-driven marketing and sales conversation in collaboration with product and machine learning leadership
-Led four software engineers, one data scientist/technical product owner, and one business/data analyst manager with four business/data analyst reports of her own
-Accountable for software delivery, quality, and process
+* Shipped the first version of Gamalon's Chat product for AI-driven marketing and sales conversation in collaboration with product and machine learning leadership
+* Led four software engineers, one data scientist/technical product owner, and one business/data analyst manager with four business/data analyst reports of her own
+* Accountable for software delivery, quality, and process
 
 **Spotify**
 
