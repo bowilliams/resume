@@ -12,9 +12,11 @@ Technical leader with experience bootstrapping new product areas and teams, mana
 
 **Gamalon**
 
-*Vice President of Engineering* __November 2019 - Present__
+*Vice President of Engineering* __November 2019 - February 2020__
 
-Led a team of engineers to ship the first version of Gamalon's IdeaFlow product for AI-driven marketing and sales conversation
+Shipped the first version of Gamalon's Chat product for AI-driven marketing and sales conversation in collaboration with product and machine learning leadership
+Led four software engineers, one data scientist/technical product owner, and one business/data analyst manager with four business/data analyst reports of her own
+Accountable for software delivery, quality, and process
 
 **Spotify**
 
@@ -23,12 +25,12 @@ Led a team of engineers to ship the first version of Gamalon's IdeaFlow product 
 *Senior Engineering Manager* __September 2013 - August 2018__
 
 Leading engineering teams across Spotify since the acquisition of The Echo Nest in 2014. Notable accomplishments include:
-* Voice- initial lead team created a mission/vision for the future of voice at Spotify. I built an implementation plan and team for this vision. Started with 2 engineers + 1 research. I staffed a combined team of 30+ through a mix of internal and external recruiting and hiring. I created a leadership group, focusing on mitigation of initial risks, and facilitated the creation of roadmaps in major functional areas (in-house NLU, partner integrations, design & UX research, and ads). Launched Spotify's voice feature in iOS and Android, and made major improvements to how we fulfill requests on partner platforms. Currently working as the tech product area lead (a manager-of-managers role) for voice in our User Engagement mission, focusing on improving our cross- platform Voice user experiences.
-* The Echo Nest integration- I managed a team of engineers through a difficult and complicated acquisition, finding a home for our work and products with a very high retention rate. 100% of my original team was retained at Spotify three years after the acquisition, and 50% are still with Spotify after five years.
-* Shipping software- in addition to my recent work with the voice program, my previous team shipped 
+* Voice- initial lead team created a mission/vision for the future of voice at Spotify. I built an implementation plan and team for this vision. Started with 2 engineers + 1 research. I staffed a combined team of 30+ through a mix of internal and external recruiting and hiring. I created a leadership group, focusing on mitigation of initial risks, and facilitated the creation of roadmaps in major functional areas (in-house NLU, partner integrations, design & UX research, and ads). As the tech product area lead (a manager-of-managers role) for voice in our User Engagement mission, my team launched Spotify's voice feature in iOS and Android, and made major improvements to how we fulfill requests on partner platforms.
+* The Echo Nest integration- I managed a team of engineers through a difficult and complicated acquisition, finding a home for our work and products with a very high retention rate. 100% of my original team was retained at Spotify three years after the acquisition, and 50% were still with Spotify after five years.
+* Shipping software- in addition to my work with the voice program, my previous team shipped 
 	- listener affinity (favorite artists/tracks) for all Spotify users at scale
 	- "clusters" - the groupings of artists in a listener's taste which produce Daily Mix stations
-	- the annual Top Songs playlists
+	- the annual Year in Music (later rebraded as Wrapped) playlists
 	- and other features focused on reflecting a fan's musical taste back to them by providing ready-made playlists and radio stations focused around their favorite music
 * Bootstrapped Machine Learning in Spotify Boston-
 When we decided we needed to grow a machine learning team and capability in our Boston office, I made the initial three hires to form the core of the team, managed the integration of those hires into their teams, and helped to draft the job description and select a machine learning engineering manager to take over this duty once the initial team was in place.
