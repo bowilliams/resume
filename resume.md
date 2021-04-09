@@ -22,7 +22,9 @@ Technical leader with experience bootstrapping new product areas and teams, mana
 
 *Director of Engineering* __August 2018 - November 2019__
 
-*Senior Engineering Manager* __September 2013 - August 2018__
+*Senior Engineering Manager* __September 2014 - August 2018__
+
+*The Echo Nest - Engineering Manager* __September 2013 - September 2014__
 
 Leading engineering teams across Spotify since the acquisition of The Echo Nest in 2014. Notable accomplishments include:
 
